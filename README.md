@@ -1,7 +1,7 @@
-# nagios-smsalert-plugin
+## nagios-smsalert-plugin
 Plugins for Nagios monitoring software to send sms
 
-#SETUP
+##SETUP
 
 ## As released this plugin requires a SMSAlert account to send text messages.  To setup a SMSAlert account visit:
    https://www.ssmalert.co.in/
