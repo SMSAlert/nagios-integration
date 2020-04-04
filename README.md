@@ -6,7 +6,7 @@ Plugins for Nagios monitoring software to send sms
    https://www.ssmalert.co.in/
 
 ### The latest version of this plugin can be found on GitHub at:
-   http://github.com/SMSAlert/nagios-smsalert-plugin
+   https://github.com/SMSAlert/nagios-integration
 
 ### Copy this file to your Nagios plugin folder
  On a Centos install this is /usr/lib/nagios/plugins (32 bit) 
